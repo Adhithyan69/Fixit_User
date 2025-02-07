@@ -157,15 +157,6 @@ class _WorkersPState extends State<WorkersP> {
                     ),
                     decoration: BoxDecoration(
                         color: Color(0xFF9fd0d1),
-                        // gradient: LinearGradient(
-                        //     begin: Alignment.topCenter,
-                        //     end: Alignment.bottomCenter,
-                        //     colors:
-                        //     [
-                        //       Colors.black87,
-                        //       Colors.black
-                        //     ]),
-                        //Color(0xFF321942),
                         borderRadius: BorderRadius.only(
                             bottomLeft: Radius.circular(18),
                             bottomRight: Radius.circular(18))),

@@ -3,10 +3,9 @@ import 'dart:async';
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:lottie/lottie.dart';
+import 'package:service_app/Pages/authentication/login_page.dart';
 import 'package:service_app/Pages/home_page.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-
-import 'login_section/login_page.dart';
 
 class Splashscreen extends StatefulWidget {
   const Splashscreen({super.key});

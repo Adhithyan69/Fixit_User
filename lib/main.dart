@@ -14,10 +14,6 @@ void main() async {
     home: Splashscreen(),
     debugShowCheckedModeBanner: false,
     navigatorKey: navigateKey,
-    // routes: {
-    //    '/notificationS':(context)=> NotificationP(),
-    //
-    // },
     routes: {
       '/notificationS': (context) => NotificationP(), // Your notification screen
        '/profileEditPage':(context)=>  ProfileEditPage(),
